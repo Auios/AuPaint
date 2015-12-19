@@ -76,7 +76,6 @@ do
     #endif
     end if
     
-
     sleep 1,1
 loop until inkey = chr(27)
 
